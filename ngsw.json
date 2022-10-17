@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1664893677274,
+  "timestamp": 1666033566842,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -16,7 +16,7 @@
         "/993.d4374d7c386b979e.js",
         "/favicon.ico",
         "/index.html",
-        "/main.9b975dc482305645.js",
+        "/main.9044c89e7352c336.js",
         "/manifest.webmanifest",
         "/polyfills.d42b0043713bc9d9.js",
         "/runtime.cf8e4fb4569508b4.js",
@@ -40,6 +40,7 @@
         "/assets/favicon/satisfactory.ico",
         "/assets/glpk-wasm/glpk.all.wasm",
         "/assets/i18n/en.json",
+        "/assets/i18n/fr.json",
         "/assets/i18n/zh.json",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
@@ -81,6 +82,7 @@
     "/assets/favicon/satisfactory.ico": "248360c1f0e99c97eef67feab88d7d07ec1b2b99",
     "/assets/glpk-wasm/glpk.all.wasm": "e23240d859358856b7106bba79e00b987170dbde",
     "/assets/i18n/en.json": "4bedfe2d084baf6152892d9c5aaea0cc196bef9a",
+    "/assets/i18n/fr.json": "44e1df3ebf9a0346e210480b3b912668093549c1",
     "/assets/i18n/zh.json": "3a94e9af95468ed6182015bd7e48b3a9ed479809",
     "/assets/icons/icon-128x128.png": "983e77afd570f31ac052b051c3195ad4f868abf6",
     "/assets/icons/icon-144x144.png": "f7ca93fd4ecf6f8c64cb159ca872be67de2dc0b5",
@@ -104,8 +106,8 @@
     "/favicon.ico": "98abad45ff4f9ac767af6e97f43545a9d4f5bef9",
     "/hue.8b1818380241e6ac.png": "f81ae627637a684614aa726e206c73ce099a01fd",
     "/icons.8bc191c2a3e30dd2.png": "0edc6786610b62438b9975eb53c5365cff87169a",
-    "/index.html": "c8d5033ad79baa50914780f2fbf39e34707e9ec8",
-    "/main.9b975dc482305645.js": "ac74cf90a92811c70d9d72dd4e95b7cda7d6985f",
+    "/index.html": "0e0d3b3c595a43fe74bfc45aff09f09279925beb",
+    "/main.9044c89e7352c336.js": "a6b3a9baf9d11d81f2bdaadd2a14233135ff9716",
     "/manifest.webmanifest": "7a49c3cf3daf0db80b34da814984e509d9d18a54",
     "/polyfills.d42b0043713bc9d9.js": "a73fc8c65fb510d07b89afc432d5b7627ad182fa",
     "/primeicons.0112589c5695a9ed.ttf": "ceeb46d594fde5cc507cdf8b70e38e78fe47653c",
