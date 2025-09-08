@@ -1,1 +1,0 @@
-import{Ab as s,Bb as o,Tb as a,_a as n}from"./chunk-HM63D5SJ.js";import"./chunk-HZ6M6AS2.js";var e=class e{};e.\u0275fac=function(t){return new(t||e)},e.\u0275cmp=n({type:e,selectors:[["lab-steps"]],decls:2,vars:0,template:function(t,p){t&1&&(s(0,"p"),a(1,"steps works!"),o())},encapsulation:2,changeDetection:0});var i=e;export{i as Steps};
