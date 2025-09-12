@@ -1,1 +1,0 @@
-import{$a as o,Bb as n,Cb as a,Yb as i}from"./chunk-OPOL2C2X.js";import"./chunk-HZ6M6AS2.js";var e=class e{};e.\u0275fac=function(t){return new(t||e)},e.\u0275cmp=o({type:e,selectors:[["lab-flow"]],decls:2,vars:0,template:function(t,c){t&1&&(n(0,"p"),i(1,"flow works!"),a())},encapsulation:2,changeDetection:0});var l=e;export{l as Flow};
