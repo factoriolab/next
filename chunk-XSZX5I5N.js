@@ -1,1 +1,0 @@
-import{aa as r}from"./chunk-FLPGU6OJ.js";var o=class o{constructor(){this.isStandalone=window.matchMedia("(display-mode: standalone)").matches}reload(){window.location.reload()}copyToClipboard(a){return window.navigator.clipboard.writeText(a)}};o.\u0275fac=function(e){return new(e||o)},o.\u0275prov=r({token:o,factory:o.\u0275fac,providedIn:"root"});var t=o;export{t as a};
