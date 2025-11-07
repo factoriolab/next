@@ -1,0 +1,1 @@
+import{Jb as i,Kb as a,cc as o,jb as n}from"./chunk-3NP6YUR2.js";import"./chunk-JGDRNPQP.js";var e=class e{};e.\u0275fac=function(t){return new(t||e)},e.\u0275cmp=n({type:e,selectors:[["lab-recipe"]],decls:2,vars:0,template:function(t,r){t&1&&(i(0,"p"),o(1,"recipe works!"),a())},encapsulation:2,changeDetection:0});var c=e;export{c as Recipe};

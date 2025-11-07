@@ -1,0 +1,1 @@
+import{Jb as n,Kb as a,cc as i,jb as o}from"./chunk-3NP6YUR2.js";import"./chunk-JGDRNPQP.js";var t=class t{};t.\u0275fac=function(e){return new(e||t)},t.\u0275cmp=o({type:t,selectors:[["lab-location"]],decls:2,vars:0,template:function(e,l){e&1&&(n(0,"p"),i(1,"location works!"),a())},encapsulation:2,changeDetection:0});var c=t;export{c as Location};
