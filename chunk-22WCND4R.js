@@ -1,1 +1,0 @@
-import{Jb as n,Kb as c,cc as i,jb as o}from"./chunk-3NP6YUR2.js";import"./chunk-JGDRNPQP.js";var e=class e{};e.\u0275fac=function(t){return new(t||e)},e.\u0275cmp=o({type:e,selectors:[["lab-collection"]],decls:2,vars:0,template:function(t,s){t&1&&(n(0,"p"),i(1,"collection works!"),c())},encapsulation:2,changeDetection:0});var a=e;export{a as Collection};
