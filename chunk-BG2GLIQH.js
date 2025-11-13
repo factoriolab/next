@@ -1,1 +1,0 @@
-import{Jb as n,Kb as i,cc as o,jb as a}from"./chunk-3NP6YUR2.js";import"./chunk-JGDRNPQP.js";var e=class e{};e.\u0275fac=function(t){return new(t||e)},e.\u0275cmp=a({type:e,selectors:[["lab-item-data"]],decls:2,vars:0,template:function(t,c){t&1&&(n(0,"p"),o(1,"item works!"),i())},encapsulation:2,changeDetection:0});var m=e;export{m as ItemData};
