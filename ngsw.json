@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1763250798640,
+  "timestamp": 1763395434797,
   "index": "/next/index.html",
   "assetGroups": [
     {
@@ -212,7 +212,7 @@
     "/next/data/sbk/icons.webp": "2864b0110aa14c4de1f94fc52853ef9056b41613",
     "/next/data/sea/icons.webp": "2e3788500b932d739d40a3848d757b4200a20b33",
     "/next/data/sfy/icons.webp": "a96eb58c8c10b423029830b125300c8e3c3e083f",
-    "/next/data/sky/icons.webp": "0c2a153a152ed772f19fc9439d8f836c772d8d75",
+    "/next/data/sky/icons.webp": "d6e0e0ee4463600349d9fba6c95dd0441c803d03",
     "/next/data/spa/icons.webp": "7616a4246d6a68506e1ee0ba218d9191d30b7448",
     "/next/data/sxp/icons.webp": "b0d5a49bf8b7f3d74f39c395fba944b5cfe9f9c5",
     "/next/data/tta/icons.webp": "62cb48398d0fb286bf6a48d991f826bd406385f5",
