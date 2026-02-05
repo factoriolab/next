@@ -1,0 +1,1 @@
+import"./chunk-JGDRNPQP.js";var o=[{path:"list",loadComponent:()=>import("./chunk-7UNJ6254.js").then(t=>t.Steps)},{path:"flow",loadComponent:()=>import("./chunk-3G44T2B7.js").then(t=>t.Flow)},{path:"data",loadChildren:()=>import("./chunk-EK44RGYZ.js").then(t=>t.routes)}];export{o as routes};
